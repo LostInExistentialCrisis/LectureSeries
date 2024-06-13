@@ -1,6 +1,10 @@
+230125-行于最大意义之线-Walking the Line of Maximal Meaning
+
 行于最大意义之线
 
 Walking the Line of Maximal Meaning
+
+### 廉价能源
 
 谢谢大家。很高兴见到你们。非常感谢你们今晚的到来。我会尝试将我在多伦多大学和哈佛大学讲课时通常需要大约10小时的内容压缩到45或50分钟。让我们看看能不能做到。所以，我最近和一位名叫亚历克斯·爱泼斯坦的作者聊了聊，亚历克斯写了一本书，书名叫《化石燃料的未来》，可能会让他惹上大麻烦。我最近采访了很多人，可以说主要是科学家，他们大多否认气候变化，尽管普遍接受目前确实有一定程度的变暖，但他们并不认为这会导致世界末日。
 
@@ -25,6 +29,8 @@ And so it's pretty obvious, I think, that you can make a strong case with, as Al
 地球的人口从三十五亿增加到现在的八十亿。与此同时，我们以前所未有的数量使人们摆脱了贫困，甚至减少了处于极度贫困中的人们的绝对数量。所以，这一切都很好。现在，爱泼斯坦提出了一个额外的论点，我觉得非常有趣，因为它与我写第一本书《意义的地图》时得出的结论相吻合。
 
 Well, the population of the earth has increased from three and a half billion to its current eight billion. We've simultaneously lifted people out of poverty in numbers undreamed of in ages previously, and also even reduced the absolute number of people in dire poverty so that's all well and good now Epstein makes an additional argument which I found very interesting because it dovetailed with a conclusion I drew when I wrote my first book called "Maps of Meaning." 
+
+### 价值层次
 
 我在《意义的地图》中试图做的是，正如书名所示，描绘我们看待世界的隐含结构的分析，这是一个很好的思考方式。你不能关注世界上的所有事物，因为要关注的东西太多了，所以你必须选择——或者说你内心的某些东西在选择——你关注什么。你几乎不关注任何事情，你忽略了几乎所有事情，然后对某些事情比其他事情更多关注，比如你更关注你所爱的人，如果你对爱有效的话，至少你是这样做的。这意味着这些人对你更重要，这意味着你更重视他们。所有这些都暗示着，你通过一个注意力优先级的层次来看待世界，本质上是一个价值层次，这是不可避免的。
 
@@ -54,7 +60,7 @@ The answer is, well, it changes you. It changes the presumptions you use to stru
 
 Part of the reason, for example, that if you get divorced, generally it's deeply upsetting, and the reason for that is, well, basically, especially if you're blindsided by the divorce, you state your entire vision of the future on the presence of that person, right? They're an axiom of your future, and so when they disappear, or worse, turn into someone that you didn't recognize, then that blows apart your whole future. 
 
-这是一种深深的创伤，而且情况更糟，如果离婚伴随着背叛，你发现你以为你爱并了解的伴侣已经有了十年的婚外情。人们发现这种事情时，不仅失去了未来，虽然你肯定会失去未来；你还失去了过去。你会想，过去怎么会丢失呢，因为它已经发生了。答案是，你认为发生的事情并不是实际发生的事情，因此这会让你极度迷茫。如果你被深深地背叛了，不仅未来和过去都会失去，你也会失去自己和其他人。你失去自我的原因是，你肯定不是你以为的那个人，而你以为自己在做的事情实际上根本不是你在做的事情。所以，问题就出现了，那你是谁？你知道，竟然有人能够如此彻底地蒙蔽你，让你如此盲目或如此倒霉，这就引出了一个问题，世界如何才能构成这样的现实，使背叛成为可能。于是你不知道自己是谁，那么，你知道其他人是谁吗？
+这是一种深深的创伤，而且情况更糟，如果离婚伴随着背叛，你发现你以为你爱并了解的伴侣已经有了十年的婚外情。人们发现这种事情时，不仅失去了未来，虽然你肯定会失去未来；你还失去了过去。你会想，过去怎么会丢失呢，因为它已经发生了。答案是，你认为发生的事情并不是实际发生的事情，因此这会让你极度迷茫。如果你被深深地背叛了，不仅未来和过去都会失去，你也会失去自己和其他人。你失去自我的原因是，你肯定不是你以为的那个人，而你以为自己在做的事情实际上根本不是你在做的事情。所以，问题就出现了，那你是谁？竟然有人能够如此彻底地蒙蔽你，让你如此盲目或如此倒霉，这就引出了一个问题，世界如何才能构成这样的现实，使背叛成为可能。于是你不知道自己是谁，那么，你知道其他人是谁吗？
 
 That's a deep wound, and it's worse than that because if you're divorced and it's accompanied by betrayal, you find out that your partner, whom you thought you loved and knew, had been having an affair for ten years. People discover that sort of thing, and then it's not like you just lose the future, although you certainly lose that; you also lose the past. You think, how can you lose the past because it already happened? The answer is, what you thought happened wasn't what happened, so that's extraordinarily disorienting. Not only do you lose the future and the past if you're deeply betrayed, but you also lose yourself and other people. The reason you lose yourself is because you aren't who you thought you were, and whatever you thought you were doing wasn't what you were doing at all. Then the question arises, who are you? You know that the wool could have been pulled over your eyes to that degree, and it begs the question of how the world could be constituted so that betrayal might be a reality. Then you don't know who you are, and then, well, do you know who other people are?
 
@@ -65,6 +71,8 @@ The answer to that's pretty obviously no because the person you thought you knew
 也许变得苦涩和愤世嫉俗比痛苦地天真要好，但这并不意味着这是一个好选择，尽管它可能在某种程度上是一种改进。所以，这是一种深深的创伤，而“深”意味着一切都会改变。深刻的故事具有这种效果；它们会深深地改变你。在《意义的地图》中，我试图分析深刻故事的结构，以及最深刻的故事中的角色的刻画和本质。显然，如果有一个故事，就必须有角色，这些角色扮演他们的部分。他们代表了我们所处的叙事现实的片段和元素。让我给你一个例子，作为一个小插曲，这样你就能明白我的意思：弗洛伊德。
 
 Maybe it's better to be bitter and cynical than to be painfully naive, but that doesn't mean it's a bad trade, even though it might be somewhat of an improvement. So that's a deep wound, and deep means everything changes. Deep stories have that effect; they change you deeply. In Maps of Meaning, I tried to analyze the structure of deep stories, as well as the characterization, the nature of the characters in the deepest of stories. Obviously, if there's a story, there have to be characters, and these characters play their parts. They represent fragments, elements of the narrative reality that we inhabit. Let me give you an example of this, as a bit of a side story, so you can see where I'm going: Freud.
+
+### 弗洛伊德：本我、自我、超我
 
 弗洛伊德是一位心理学家、精神病学家、精神分析学家，是世界上第一批正式的治疗师之一，是那些积极发现所谓的谈话疗法可以对心理生理产生变革作用的人之一，他重新发现了忏悔和对话的救赎能力，从世俗的角度来说。他用三个角色充实了他的世俗宇宙，其中一个角色就是“本我”。“本我”在德语中意为“它”。本我实际上是本能在你体内表现出来的自然领域。弗洛伊德有神经学背景，是一位生物学思想家，对于一个19世纪末写作的人来说，他为生物学基础上的精神病学奠定了初步的基础，做得相当不错。
 
@@ -118,7 +126,7 @@ And we're a lot different than butterflies, except we both like beauty and symme
 
 So, sometimes it's even successful, it's a joke, but it's also the truth, and it's the story of humanity because what we have learned as a species, we do this in ritual, is to offer something up so that nature bestows its plenitude on us. Like when you make a decision about the future you're gonna work for something, hey, what you're doing is you're sacrificing your impulses in the present to a long-term vision, and you're making a bargain. It's not just with nature, but it's partly with nature. Then the bargain is if I make the proper sacrifice, then nature itself will shine its positive light on me, and you don't know if that's true because you don't know if you decide to work for something, you don't know if it's gonna happen.
 
-你必须怀着诚信做出牺牲，因为你没有事先的证据，但我们都深信不疑，就像献祭的发现是人类最伟大的发现之一。这是一个如此深刻的发现，认为你可以在现在放弃某些东西，以便在未来受益，通过牺牲来改变你的命运。这是一个令人震惊的发现。我是说，动物会表现出这种行为，因为像海狸这样的动物会工作，但它们并不真正知道自己在工作，而我们知道我们在放弃现在的一些东西，以使未来更美好。我们能够以这种方式与现实讨价还价，这实在是太奇怪了。从象征层面来看，这意味着我们在安抚自然，我们在献祭，以使可怕的女神消失，仁慈的女神出现。
+你必须真诚地做出牺牲，因为你没有事先的证据，但我们都深信不疑，就像牺牲的发现是人类最伟大的发现之一。这是一个如此深刻的发现，认为你可以在现在放弃某些东西，以便在未来受益，通过牺牲来改变你的命运。这是一个令人震惊的发现。动物会表现出这种行为，因为像海狸这样的动物会工作，但它们并不真正知道自己在工作，而我们知道我们在放弃现在的一些东西，以使未来更美好。我们能够以这种方式与现实讨价还价，这实在是太奇怪了。从象征层面来看，这意味着我们在安抚自然，我们在献祭，以使可怕的女神消失，仁慈的女神出现。
 
 You have to make the sacrifice in good faith because you don't have the evidence before you, but we all do believe very deeply, like the discovery of sacrifice was one of the greatest discoveries of the human race. It's such a profound discovery, the notion that you can give up something in the present to benefit from the future, that you can change your destiny through sacrifice. That's a staggering discovery. I mean, animals will act that out,  because animals like beavers will work, but they don't really know they're working, where we know that we're giving something up in the present to make the future better. And it's so strange that we can bargain with reality in that way. And what it means at the symbolic level is we're propitiating nature, we're offering a sacrifice so that the dread goddess disappears and the benevolent goddess appears. 
 
@@ -130,15 +138,15 @@ And you need that dual representation because nature is red in tooth and claw, a
 
 And so that's,  logicians say, "Well, one thing can't be itself and its opposite at the same time." It's like, fair enough, but you know what about nature, which is exactly that all the time? And then we have this paradoxical problem, which is,  how do we apprehend and cope with the negative and apprehend and cope with the positive when that terrible paradox exists? And you might say, "I don't want to deal with that." Well, too bad for you, man, you have to deal with that or you just die. And so it's a big problem. And so a sophisticated narrative always has a positive aspect of the natural world, generally feminine, and a negative aspect. And part of that story is how you transform one to the other, and that's actually a religious conundrum in the final analysis.
 
-在父权制方面，你可以从女权主义中看到这一点。设想一下，女权主义者提出的观点是，所有的社会关系，包括婚姻，所有的社会关系，无论其范围和在社会层级中的位置，基本上都是父权压迫的表现，这是对消极男性的叙述。
+在父权制方面，你可以从女权主义中看到这一点。设想一下，女权主义者提出的观点是，所有的社会关系，包括婚姻，所有的社会关系，无论其范围和在社会层级中的位置，基本上都是父权压迫的表现，这是一种消极的男性叙事。
 
 And then on the patriarchal side, and you see this with feminism, so imagine that there's the notion that feminists put forth that human society, all social relations including marriage, all social relations regardless of their expanse and position in the social hierarchy are basically manifestations of patriarchal oppression, and that's a narrative of the negative masculine. 
 
-一个复杂的叙事包含两者。消极的男性会是什么？那就是暴政，它是邪恶的国王本质上的表现。它是暴政和压迫、权力和统治、僵化的等级组织、对自然的征服、对女性的征服、奴隶制和战争，是狭隘、僵化、父权制和军事化态度的体现，是社会中所有消极的东西，是社会和社会层级中所有消极的东西。这就是父权制。历史是血腥的，这点没错，历史中充满了关于权力如何腐蚀制度的故事，每一种关系，每一种人类关系都在某种程度上被使用强制和权力的倾向所污染。当人们之间的关系恶化时，它们确实会变成一种类似于权力关系，而不是自愿结合的关系。
+一个复杂的叙述包含两方面。就像，嗯，有负面的男性形象，那会是什么样的呢？那就是暴政，它是邪恶的国王本质上的表现。它是暴政和压迫、权力和统治、僵化的等级组织、对自然的征服、对女性的征服、奴隶制和战争，是狭隘、僵化、父权制和军事化态度的体现，是社会中所有消极的东西，是社会和社会层级中所有消极的东西。这就是父权制。历史是血腥的，这点没错，历史中充满了关于权力如何腐蚀制度的故事，每一种关系，每一种人类关系都在某种程度上被使用强制和权力的倾向所污染。当人们之间的关系恶化时，它们确实会变成一种类似于权力关系，而不是自愿结合的关系。
 
 And a sophisticated narrative has both. It's like, yeah, well, there's the negative masculine, and what would that be? It'd be tyranny, and it's the evil king fundamentally. It's tyranny and oppression, and power, and domination, and rigid hierarchical organization, and the subjugation of nature, and the subjugation of women, and slavery, and warfare, and what a narrow, rigid, patriarchal, militaristic attitude, and it's everything about society that's negative, everything about society and social hierarchies that's negative. That's the patriarchy, and like,  fair enough because history is bloody, but bloodbath, and there's no shortage of stories about how institutions become corrupted by power, and every relationship, every human relationship is contaminated to some degree by the proclivity to use compulsion and power, and when relationships between people deteriorate, they do deteriorate into something approximating a relationship of power rather than voluntary association. 
 
-所以，认为存在一种父权制，并且它是消极的是正确的，但这只是半对，这是问题所在。你需要另一半，因为，这就是让我们来看让-雅克·卢梭和托马斯·霍布斯之间的区别。顺便说一句，我并不是特别欣赏卢梭，他认为自然状态是高贵的野蛮人，在邪恶文明出现之前，我们都过着平等、共产主义的狩猎采集者的美好生活，大家都相亲相爱。这完全是谎言，猎人采集者社区的谋杀率会让西方最糟糕的内城区看起来像一个完美的天堂。因此，认为在邪恶的父权制兴起之前，我们都像“Kumbaya”[^1]那样相亲相爱，这完全是不真实的，恰恰相反。
+所以，认为存在一种父权制，并且它是消极的，这是正确的，但这只是半对，这是问题所在。你需要另一半，因为，这就是让我们来看让-雅克·卢梭和托马斯·霍布斯之间的区别。顺便说一句，我并不是特别欣赏卢梭，他认为自然状态是高贵的野蛮人，在邪恶文明出现之前，我们都过着平等、共产主义的狩猎采集者的美好生活，大家都相亲相爱。这完全是谎言，猎人采集者社区的谋杀率会让西方最糟糕的内城区看起来像一个完美的天堂。因此，认为在邪恶的父权制兴起之前，我们都像“Kumbaya”[^1]那样相亲相爱，这完全是不真实的，恰恰相反。
 
 And so the notion that there's a, let's call it a patriarchy and that it's negative is true, but it's only half true, that's the problem, is that you need the other half because, and this is the difference between Jean-Jacques Rousseau, let's say, and Thomas Hobbes because Rousseau, I'm not an admirer of Rousseau particularly, by the way, he kind of thought of nature as the state of nature, the noble savages before the dawn of evil civilization, we all lived the wonderful life of egalitarian, communist hunter-gatherers, and everybody loved each other, which is a complete bloody lie, like the rate of murder in hunter-gatherer communities would make the worst inner-city neighborhood in the West look like a complete bloody paradise, and so the notion that at some point in history before the rise of the evil patriarch, we were all like Kumbaya loving our brothers. It's just not true even in the tiniest degree, quite the contrary.
 
@@ -150,7 +158,7 @@ And so Rousseau's proposition was, noble savage, evil, patriarchal, industrial c
 
 That's why we come become more like and Thomas Hobbes philosopher who lived at approximately the same time had the opposite view and he said no people are pretty much counted a catastrophe in the state of nature life is nasty brutish and short and the only way forward to something approximating a peaceful destiny and reasonable psychological integration is the establishment of a genuine community right is that and then socialization and the establishment community actually civilizes us and it takes us out of that brutal state of nature and we become better than we are through the process of socialization.
 
-你可能会问，谁是对的？卢梭，认为社会腐蚀了我们，还是霍布斯，认为社会使我们高贵？如果你有理智，你会说，悖论地，两者都是对的。因为你非常清楚，当你上学时，你本可以成为的许多东西被压制了。你必须学会像其他人一样，这意味着你不能成为那个理论上独特的自己。但同样，如果没有周围的朋友，没有你必须学会与之交往的同伴，你就会成为一个自私自利的、狭隘冲动的享乐主义者。
+你可能会问，谁是对的？卢梭，认为社会腐蚀了我们，还是霍布斯，认为社会使我们高贵？如果你有理智，你会说，悖论地，两者都是对的。因为你非常清楚，当你上学时，你本可以成为的许多东西被压制了。你必须学会像其他人一样，这意味着你不能成为那个理论上独特的自己。但同样，如果没有周围的朋友，没有你必须学会与之交往的同伴，你就会变成一个自私、自恋的黄鼠狼，以一种狭隘、冲动的方式只为自己谋利，这正是未成熟享乐主义者的特征。
 
 And you might say, well, who's right? Rousseau, who claims that society corrupts us, or Hobbes, who claims that society ennobles us? And if you have any sense, you'd say paradoxically, they're both. Because you know perfectly well when you went to school, a lot of what you could have been was just crushed out of you. And the fact that you had to learn how to be like other people meant that you couldn't be the special you that you could theoretically be. But by the same token, if you didn't have your friends around you, the peers that you had to learn to associate with, you'd just be some selfish narcissistic weasel that was out for himself in this narrowly impulsive manner that characterizes immature hedonists.
 
@@ -206,29 +214,25 @@ But the purpose of the religious enterprise is to provide you with a deep orient
 
 And so back to Alex Epstein. So here's the narrative that underlies the environmental movement. Nature is a fragile, hapless, virgin. Culture is a rapacious tyrannical mob and the individual is a destructive predatory parasite, and the thing is, it's true, that's why it grips people, but the problem is it's half true, right? It's true and it grips you because it has a religious substructure, it covers the territory. 
 
-因为如果你有一个院子，你就得照顾你的花园。如果你不小心，不浇水，太阳会把它烧死，然后它会枯萎，变得丑陋，飞走，你就不能住在那里，变得极其丑陋。所以，你显然要照顾好花园，从这个意义上说，它是脆弱的。至于文化，当然在某些方面是贪婪和破坏性的。
+因为如果你有一个院子，你就得照顾你的花园。如果你不小心，不浇水，太阳会把它烧死，然后它会枯萎，变得丑陋，飞走，你就不能住在那里，变得令人难以忍受。所以，你显然要照顾好花园，从这个意义上说，它是脆弱的。至于文化，当然在某些方面是贪婪和破坏性的。
 
 Because if you have a yard, you have to take care of your garden, you know, and if you're incautious, you don't water it, the sun will burn it, it'll die, and then it's ugly, and it blows away, and you can't live there, and it's hideous, and so you got to take care of the garden, obviously, and so in that sense it's fragile, and with regards to culture, well of course it's rapacious and destructive in some regard. 
 
-比如，当我们进行像挖煤这样的工业活动时，可能不得不摧毁整座山，这可能会走得太远。你可能会把毒物倒入邻近的溪流中，破坏那些维持你生存的东西，这样做出于自私和短视的原因，显然是不好的。同样，你可以成为一个无知而破坏性的消费者，只拿取而不付出，我们应该意识到这一点，并努力纠正这些问题，但这只是故事的一半。
+比如，当我们进行像挖煤这样的工业活动时，可能不得不摧毁整座山，这也会造成严重后果。你可能会把毒物倒入邻近的溪流中，破坏那些维持你生存的东西，这样做出于自私和短视的原因，显然是不好的。同样，你可以成为一个无知而破坏性的消费者，只拿取而不付出，我们应该意识到这一点，并努力纠正这些问题，但这只是故事的一半。
 
 I mean, when we undertake an industrial enterprise like digging for coal, maybe you have to destroy a whole mountain, and you know that can go too far. You can dump poison into the adjoining streams and destroy that which sustains you, and you can do that for selfish and short-sighted reasons. Obviously, that's not good. Then you can clearly be a mindless and destructive consumer, only taking and not giving, and we should be aware of that. We should strive to rectify all of that, but it's half the story.
 
-另一半是，我在阿尔伯塔北部长大时对此非常敏感，那里的自然环境并不那么纯洁和仁慈。我们镇上有醉汉，但他们一般不会活得很久，因为在我们镇上通常发生的事情是，镇上的醉汉某天晚上醉醺醺地回家，头朝下栽进雪堆，一个小时内就会冻成冰块。
+因为另一半的原因是，我在阿尔伯塔北部长大，那离美国边境有800英里。那里的自然环境并不是那么纯洁和仁慈。我们镇上有酒鬼，但他们通常活不长，因为我们镇上的酒鬼会在某个晚上醉醺醺地回家，结果头朝下倒在雪堆里，没过一小时就被冻得硬邦邦的。那里常常是零下40度，我刚上大学时，有38天连续零下40度，有时甚至达到零下48度。轮胎会冻平，需要一段时间才能解冻，前提是你能启动你的车，而通常情况下，如果你不让车整夜运行，你根本启动不了。
 
-Because the other half is, well, I was very sensitive to this growing up in northern Alberta, as I did, 800 miles north of the American border. Nature up there wasn't all that virginal and benevolent, and so we had town drunks, but they didn't last very long because generally what happened in our town is the town drunk would wander home drunk one night and land up headfirst in a snowbank and he'd be frozen solid within an hour. 
+Because the other half is, well, I was very sensitive to this growing up in northern Alberta, 800 miles north of the American border. Nature up there wasn't all that virginal and benevolent. We had town drunks, but they didn't last very long because generally what happened in our town is the town drunk would wander home drunk one night and end up headfirst in a snowbank, frozen solid within an hour. So, because it was 40 below up there a lot when I first went to college — it was 40 below for 38 days in a row — and sometimes even 48 below, your tires freeze flat on the bottom, and it takes them a while to thaw out, assuming you can get your car started, which you generally couldn't unless you left it running overnight.
 
-所以，当我第一次上大学时，那里经常是零下40度，连续38天都是零下40度，还有零下48度的天气，你的轮胎会在底部冻平，需要一段时间才能解冻，前提是你能启动你的车，而一般你不能，除非你把车整夜开着。
-
-And so because it was 40 below up there a lot when I first went to college it was 40 below for 38 days in a row and so and 48 below, you know your tires freeze flat on the bottom and it takes them a while to thaw out assuming you can get your car started, which you generally couldn't unless you left it running overnight. 
-
-在那样的地方，你会学到，自然并不是什么仁慈的存在，而是“红牙利爪”。你会非常感激自己住在一个有保温效果的房子里，并且有稳定供应的天然气。
+在那样的地方，你会学到，自然并不是什么仁慈的存在，而是“红牙利爪”[^2]。你会非常感激自己住在一个有保温效果的房子里，并且有稳定供应的天然气。
 
 And so you learned in a place like that that nature was not exactly anything other than red in tooth and claw, you know, and you're pretty damn grateful that you lived in an insulated house with a pretty decent regular supply of natural gas. 
 
-许多人过着这样的生活，那些相对接近自然的人，他们知道，从优化的存在到避免过多的痛苦和冲突，再到陷入自然世界的恐怖之间的界限非常非常薄。城市里的人们被这种界限保护得很好，因为在最根本的层面上，事情是如此难以置信的可预测，我们很容易浪漫化自然。
+许多人过着这样的生活，那些相对接近自然的人，他们知道，从没有过多的痛苦和冲突的最佳生存状态，到陷入自然世界的恐怖之间的界限非常非常薄。城市里的人们被这种界限保护得很好，因为在最根本的层面上，事情是如此难以置信的可预测，我们非常、非常、非常、非常、非常、非常容易浪漫化自然。
 
-Lots of people live like that, people who are relatively close to nature, you know they know that the border between what would you call it optimized existence without too much pain and strife and cataclysmic descent into the horrors of the natural world aligns very, very thin. Urban people are very much protected from that, because things are so unbelievably predictable in the most fundamental way that it's very, very, very, very easy for us to romanticize nature. 
+Lots of people live like that, people who are relatively close to nature, they know that the border between optimized existence without too much pain and strife and cataclysmic descent into the horrors of the natural world aligns very, very thin. Urban people are very much protected from that, because things are so unbelievably predictable in the most fundamental way that it's very, very, very, very easy for us to romanticize nature. 
 
 这部分原因是每当我们看到自然时，都是在度假期间，一切都被照顾得很好，你看到的只是美丽的一面，你会觉得整个星球都是法国印象派的风景画，但事实显然不是这样。
 
@@ -238,11 +242,11 @@ And that's partly because whenever we see nature, it's on some vacation where ev
 
 You get high on your horse about that too and that's real easy but it's very useful to know that you know nature is red in tooth and claw and you're bloody lucky if you're protected by your clothing and your house and your family and your community and your state and your army and your nuclear weapons so that you can sit here and pretend that you just love nature and that she's a pristine virgin. 
 
-事实并非如此，同样的道理也适用于所谓的父权制上层结构。显然，有人会操纵系统，有百分之五的人是精神病患者，他们玩零和游戏，相互剥削，正如我所说，人类的社会关系在某种程度上确实可以仅仅基于权力和强制，但这并不意味着整个故事就是如此。
+事实并非如此，同样的道理也适用于所谓的父权制上层结构。显然，有人会操纵系统，有百分之五的人是精神病患者，他们玩零和游戏，相互剥削，正如我所说，人类的社会关系在某种程度上确实可以仅仅基于权力和强制，
 
 It's like no, I know, and the same thing applies with regards to the so-called patriarchal superstructure, you know it's like you know of course people manipulate the system and there are five percent of the population are psychopaths and they're people who play zero-sum games and they exploit each other, you know, and to some degree as I said human social relationships can be based on nothing but power and compulsion but that doesn't mean that's the whole story. 
 
-事实上，这是一个相当悲惨的故事，大多数人即使说相信也并不真正相信。因为，如果你婚姻成功，你的关系真的是基于权力和剥削吗？那怎么可能行得通？首先，即使你尝试这样做，你的妻子也有她自己的手段，如果你只用权力和强制，最终会在200种不同的方式上付出代价。
+事实上，这是一个相当悲惨的故事，大多数人即使说相信也并不真正相信。因为，如果你婚姻成功，你的关系真的是基于权力和剥削吗？那怎么可能行得通？首先，即使你尝试这样做，你的妻子也有她自己的手段，如果你只用权力和强制，最终会以200种不同的方式付出代价。
 
 In fact, it's a pretty damn dismal story and most people don't believe it anyways even if they say they do because look if you're married successfully is your relationship really based on power and exploitation like how the hell's that gonna work? I mean first of all, even if you try it, you know, you have a wife and she's got her own wiles and if you try using power and compulsion and nothing else, man, you're gonna pay for it in like 200 different ways.
 
@@ -254,7 +258,7 @@ So it's not like women are particularly easy to oppress. They're very treacherou
 
 To the degree that your wife can stand that, it's the same with your friendships. You might be cynical about the patriarchal structure, but if your friendships are really based on power, you're just a bully with his henchmen, and they'll stab you in the back the first chance they get. If you're not the bully, you're just a henchman, and that's even worse. That's no basis for friendship. 
 
-大多数稳定且富有成效的社会层级组织再次基于自愿结合和自由选择的原则，所以这是一个更稳定的社会结构。大多数富有成效的父权层级基于能力和慷慨，而不是基于权力，这其实非常明显。
+大多数稳定且富有成效的社会层级组织同样基于自愿结合和自由选择的原则，所以这是一个更稳定的社会结构。大多数富有成效的父权层级基于能力和慷慨，而不是基于权力，这其实非常明显。
 
 Most stable and productive social hierarchical organizations are based again on the principles of voluntary association and free choice, so that's a way more stable social structure. Most productive patriarchal hierarchies are based on both competence and generosity rather than on power, and that's actually very clear. 
 
@@ -266,7 +270,7 @@ Now, that's not true in all societies at all times because you do get tyrannical
 
 It's like, are you all good, except insofar as society has warped you? Are you a rapacious predatory parasite? To some degree, you can tilt in that direction, that's for sure, and to the degree that you're weak, blind, bitter, resentful, arrogant, deceitful, that lovely combination of traits, then you're gonna act out that resentment in the world and maybe exploit other people. But generally, in a functional society, people aren't like that most of the time, and part of the reason for that is it just doesn't work very well. 
 
-地球上大约有四分之一的人是精神病患者，这已经很多了，但并不是95%。原因是，那种行为方式根本行不通。如果每个人都在做好自己的工作，四分之一的人可以以精神病患者的方式逃脱惩罚，这基本上就是这样。如果有足够多的人合作，使得某些生产性和慷慨的事情发生，就会为一些掠夺性寄生虫提供生存空间。四分之一，就是这样。如果这种人数开始增加，达到10%或15%，整个社会就会崩溃，连精神病患者也会死去。所以，这对他们来说也是不好的，假设他们还想活着。
+地球上大约有百分之四的人是精神病患者，这已经很多了，但并不是95%。原因是，那种行为方式根本行不通。如果每个人都在做好自己的工作，百分之四的人可以以精神病患者的方式逃脱惩罚，这基本上就是这样。如果有足够多的人合作，使得某些生产性和慷慨的事情发生，就会为一些掠夺性寄生虫提供生存空间。百分之四，就是这样。如果这种人数开始增加，达到10%或15%，整个社会就会崩溃，连精神病患者也会死去。所以，这对他们来说也是不好的，假设他们还想活着。
 
 About four percent of the planet's people are psychopathic, that's it. It's a lot, one in 25, but it's not 95%. The reason for that is it doesn't work very well. If everyone's doing a good job, four percent of people can get away with being psychopathic, that's basically it. If you get enough people cooperating so that you have something productive and generous happening, it opens up a space for some predatory parasites to thrive. Four percent, that's it. If they start to multiply beyond that, say up to 10 or 15 percent, the whole society collapses and even the bloody psychopaths die. So that's just not good for them, assuming they want to live.
 
@@ -278,7 +282,7 @@ What's happening on the radical environmental front? Well, it's basically a reli
 
 The individual is walking the delicate line between those two, that's the line between the yin and the yang, that's the place of maximal meaning and the individual has a positive and negative element as well and a well fleshed out account of that is a religious story. And so you can't not have that, there's no way around it. You might just have a partial fragment of that, but you have to have an orienting story. 
 
-你需要一个导向故事的部分原因是，因为没有一个，你甚至无法看世界。所以我希望通过《意义的地图》做到的，就是整理这些内容，顺便说一下，那本书以及我之后写的所有东西，《超越秩序》和《人生十二法则》以及我所有的讲座和工作，都是从那本书中衍生出来的。我花了15年写那本书，试图理清这些问题，这给了我一些洞察力，知道什么是意识形态与有效的信仰叙事之间的区别。
+你需要一个导向故事的部分原因是，因为没有（这样）一个（故事），你甚至无法看世界。所以我希望通过《意义的地图》做到的，就是整理这些内容，顺便说一下，那本书以及我之后写的所有东西，《超越秩序》和《人生十二法则》以及我所有的讲座和工作，都是从那本书中衍生出来的。我花了15年写那本书，试图理清这些问题，这给了我一些洞察力，知道是什么构成了意识形态和有效的信仰叙述。
 
 And part of the reason you have to have an orienting story is because you can't even look at the world without one. So what I was hoping to do with maps of meaning, and what I'm trying to do, and that, by the way, that book like all the things I wrote after that—Beyond Order and 12 Rules for Life and all the lectures and everything I've done—it all came out of that initial book. Like I spent 15 years writing that, trying to sort all this out, and you know, it's given me some insight into what constitutes an ideology versus a valid narrative of belief. 
 
@@ -286,9 +290,11 @@ And part of the reason you have to have an orienting story is because you can't 
 
 And a valid narrative of belief has this comprehensive element and it situates you properly in the world. You know, if you know about the polarity, you know the negative element of nature and the positive, etc., you can start to play those off against each other in some sense and find a place to live. And you can be wise and see what's negative, but you can be hopeful and see what's positive. And then you're wise and hopeful, and that's a good deal. Right? If you're wise and hopeful, you can navigate through life properly. And then you'll also not fall prey to idiot ideologies, because now you're defended. You hear a story like the environmental story, and you think, yeah, yeah, fair enough, but like where are the rest of the characters? 
 
-答案不能是“我们只是忽略它们”，因为那意味着你忽略了一半的世界。就像你对一侧视而不见，结果你会一直往左走，直到跌下悬崖。然后你会跌下悬崖，因为你使用的地图不能正确地引导你在世界中定位。那么，你知道什么呢？你知道意识形态是寄生在宗教上层结构上的，你至少部分了解宗教下层结构是什么——它是这种对立角色的动态景观的表征，必须涵盖整个领域：自然、文化、混沌、秩序和个体。这能让你在世界中正确地定位。这是非常深刻的。
+答案不能是“我们只是忽略它们”，因为那意味着你忽略了一半的世界。就像你对一侧视而不见，结果你会一直往左走，直到跌下悬崖。然后你会跌下悬崖，因为你使用的地图不能正确地引导你在世界中定位。那么，你知道什么呢？意识形态是寄生在宗教上层结构上的，你至少部分了解宗教下层结构是什么——它是这种对立角色的动态景观的表征，必须涵盖整个领域：自然、文化、混沌、秩序和个体。这能让你在世界中正确地定位。这是非常深刻的。
 
-And the answer can't be, well, we just don't take them into account. Like, yeah, well, that's half the world. It's like you're blind on one side, and you're just gonna be moving leftward as it turns out in this particular case, until you fall off a cliff. And then you'll fall off a cliff because the map you're using can't orient you properly in the world. And so, well, there you go. So now what do you know? Well, you know that ideologies are parasites on a religious superstructure, you know what the religious substructure is, at least in part—it's the representation of this dynamic landscape of opposing characters that have to cover the whole territory: nature, culture, chaos, order, and the individual. And that orients you properly in the world. And this is so deep.
+And the answer can't be, well, we just don't take them into account. Like, yeah, well, that's half the world. It's like you're blind on one side, and you're just gonna be moving leftward as it turns out in this particular case, until you fall off a cliff. And then you'll fall off a cliff because the map you're using can't orient you properly in the world. And so, well, there you go. So now what do you know? Ideologies are parasites on a religious superstructure, you know what the religious substructure is, at least in part—it's the representation of this dynamic landscape of opposing characters that have to cover the whole territory: nature, culture, chaos, order, and the individual. And that orients you properly in the world. And this is so deep.
+
+### 混沌与秩序
 
 你的大脑有两个半球，对吧？一个处理混沌，一个处理秩序。你会想，混沌和秩序是真实的吗？它们如此真实，以至于塑造了你大脑的进化。还能有比这更真实的东西吗？
 
@@ -310,7 +316,7 @@ And then you could even add one more thing to that, which is if you're mediating
 
 Can you find something engrossing and meaningful? Why? Because you're in the right place at the right time doing the right thing. You're wise enough to understand the characterization of the world, you have order and chaos in proper balance, metaphorically, symbolically, in a narrative manner, and also really. And that's really useful to know, you know, because people say, well, life has no meaning. It's like, no, that's just not right. Meaning is the deepest instinct and it's also useful to know, it's the medication against pain. 
 
-每个人都认为痛苦是真实的，对吧？不管你多么愤世嫉俗，你对自己的痛苦并不愤世嫉俗。你当然相信它的存在。你甚至可能认为没有什么比痛苦更真实，这个观点是有道理的。但如果你能用有意义的东西面对痛苦，并说“这是值得的”，那么你就拥有了一种如此深刻的东西，甚至能对抗痛苦。
+每个人都认为痛苦是真实的，对吧？不管你多么愤世嫉俗，（但）你对自己的痛苦并不会愤世嫉俗。你当然相信它的存在。你甚至可能认为没有什么比痛苦更真实，这个观点是有道理的。但如果你能用有意义的东西面对痛苦，并说“这是值得的”，那么你就拥有了一种如此深刻的东西，甚至能对抗痛苦。
 
 Everyone thinks pain is real, right? I don't care how cynical you are, you're not cynical about your own pain. You certainly believe in that. And you might even think there's no reality more fundamental than pain, and there's an argument to be made for that. But you know, if you can face pain with something meaningful and say it's worth it, then you have something that's so deep that it even works against pain. 
 
@@ -328,53 +334,61 @@ So anyways, yeah, well, I guess I told you what I wanted to tell you tonight and
 
 ### Q&A
 
-**Q**
+#### 如果有人现在处于自杀边缘，你会对TA说什么？
 
-三年前我差点自杀，但最终没有跳下去。现在我好多了。那么，如果有人现在处于边缘，你会对他说什么？
+**Tammy**
+
+三年前我差点自杀，但最终没有跳下去。现在我好多了。那么，如果有人现在处于边缘，你会对TA说什么？
 
 Isn't it? Alright, ready? I almost committed suicide three years ago, but I did not jump. I'm better now. What would you tell someone who might currently be on the edge?
 
-很难为绝望的人提供通用的建议，因为通往绝望的道路有很多条。但是我遇到过一个特别疯狂的教授，当我18岁在阿尔伯塔大学上学时遇到的。他是一个非常古怪的人。大约20年后的一天，他突然消失了，他乘坐一辆去温尼伯看望家人的公共汽车，从此再也没有出现过，也没有人找到他的任何踪迹。
+**Jordan**
 
-在阿尔伯塔大学期间，他在附近的最高安全级别监狱担任心理学家，他带我去过几次。那是一段令人毛骨悚然的经历，我在埃德蒙顿的最高安全级别监狱里遇到了一些相当严重的精神病患者。他是一个有趣的人，名叫Thauberger。他经常给我们做多项选择测试，有时所有四个答案都是一样的，我觉得这很有创意，也很有趣。
+很难为绝望的人提供通用的建议，因为通往绝望的道路有很多条。但是我遇到过一个特别疯狂的教授，当我18岁在阿尔伯塔大学上学时遇到的。他是一个非常古怪的人。大约20年后的一天，他突然消失了，他乘坐一辆去温尼伯看望家人的公共汽车，从此再也没有出现过，也没有人找到他的任何踪迹。
 
 Well, it's hard to come up with generic advice for someone who's desperate because there are many pathways to desperation. But I had this crazy professor that I met at the University of Alberta when I was 18, and he was quite the bizarre person. He vanished one day about 20 years later. He got on a bus in Winnipeg to go visit his family and never showed up, and they never found a trace of him. 
 
+在阿尔伯塔大学期间，他在附近的最高安全级别监狱担任心理学家，他带我去过几次。那是一段令人毛骨悚然的经历，我在埃德蒙顿的最高安全级别监狱里遇到了一些相当严重的精神病患者。他是一个有趣的人，名叫Thauberger。他经常给我们做多项选择测试，有时所有四个答案都是一样的，我觉得这很有创意，也很有趣。
+
 Anyways, at the University of Alberta, he worked as the psychologist at the maximum-security prison that was located nearby, and he took me out there a couple of times. So that was quite the hair-raising experience, and I met some pretty serious psychopaths in the Edmonton maximum-security prison. And he was a funny guy. This Thauberger was his name. He used to give us multiple-choice tests, did a course on creativity, and now and then he'd throw in a multiple-choice test question, and all four answers would be the same, which I thought was, I guess, that was creative, and it was certainly funny, I thought.
 
-有些学生非常讨厌他，但我觉得他很棒。他真的很酷。他对自杀有什么看法？他说：“你总是可以明天再做。”这确实是个不错的建议。你成功后就无法再做第二次，所以为什么不等一等呢？你能不能等一等？这是通用的建议，但确实值得思考，因为这是最后的举动。我还会说，让周围的人知道你不想把这个秘密藏起来。如果你没有人可以告诉，那真的该去医院告诉医生。你去医院时可以说：“我有自杀的想法，我有计划，这是我的计划。”这也是评估一个人是否有自杀倾向的方式。
+有些学生非常讨厌他，但我觉得他很棒。他真的很酷。他对自杀有什么看法？他说：“你总是可以明天再做。”这确实是个不错的建议。你成功后就无法再做第二次了，所以为什么不等一等呢？你能不能等一等？这是通用的建议，但确实值得思考，因为这是最后的举动。我还会说，让周围的人知道，你不要把这个秘密藏起来。如果你没有人可以倾诉，那真的该去医院告诉医生。你去医院时可以说：“我有自杀的想法，我有计划，这是我的计划。”这也是评估一个人是否有自杀倾向的方式。
 
-Some of the students really hated him, but I thought he was great. He was really cool. And what did he say about suicide? "You can always do it tomorrow." Yeah, well, that's pretty good. It's pretty good. That's a pretty good piece of advice. It's like, you don't get to do it twice if you're successful, so is it not possible just to wait? Can you just wait? And that's pretty generic advice, but it's definitely worth thinking about because it's its final act. Then I would say to let people around you know you don't want to keep that a secret. And if you don't have anyone to tell, really it's time to go to the hospital and tell someone. And you tell when you go to the hospital you say, "I'm suicidal and I have a plan and here's my plan." And that's, by the way, how you assess someone for suicidality. 
+Some of the students really hated him, but I thought he was great. He was really cool. And what did he say about suicide? "You can always do it tomorrow." Yeah, well, that's pretty good. It's pretty good. That's a pretty good piece of advice. It's like, you don't get to do it twice if you're successful, so is it not possible just to wait? Can you just wait? And that's pretty generic advice, but it's definitely worth thinking about because it's its final act. Then I would say to let people around know, you don't want to keep that a secret. And if you don't have anyone to tell, really it's time to go to the hospital and tell someone. And you tell when you go to the hospital you say, "I'm suicidal and I have a plan and here's my plan." And that's, by the way, how you assess someone for suicidality. 
 
 因为抑郁的人，很多人都会抑郁，会有自杀的念头，这并不罕见。那么你可能会问自己，怎么知道一个人是否有自杀倾向？
 
 Because depressed people, lots of people get depressed, will have suicidal thoughts, and they're far from rare. And so then you might ask yourself, well, how do you know when someone's suicidal? 
 
-当你问，“你是否曾有过自我毁灭的想法？”然后他们说，“在我父亲的房子里有一个地下室，那里有一把手枪，它在书桌的右上角，我知道那把枪的子弹在书桌的左下抽屉里，我曾经拿出那把枪玩弄它，想着我的父母下周会离开一个周末，他们不会回来，我可以进浴室，把枪管放进嘴里结束这一切。”这就是一个有自杀倾向的人。你知道这是因为他们不仅仅是被模糊的想法困扰，他们有一个具体可实施的死亡愿景，这非常不好。
+当你问，“你是否曾有过自我毁灭的想法？”然后他们说，“在我父亲的房子里有一个地下室，那里有一把手枪，它在书桌的右上角，我知道那把枪的子弹在书桌的左下抽屉里，我曾经拿出那把枪玩弄它，想着我的父母下周会离开一个周末，他们不会回来，我可以进浴室，把枪管放进嘴里结束这一切。”这就是一个有自杀倾向的人。这是因为他们不仅仅是被模糊的想法困扰，他们有一个具体可实施的死亡愿景，这非常不好。
 
-And they're suicidal when they say to you, "Do you ever think self-destructive thoughts?" And they say, "In my father's house there's a basement, there's a pistol down there, and it's in the top right-hand corner of the bureau, and I know the bullets for that gun are in the bottom left-hand drawer, and you know, I've taken that gun out of that drawer and I've toyed with it and I thought, you know, my parents are leaving next week for a weekend and they won't be back and I could go into the bathroom and put the barrel in my mouth and end it." It's like, that's a suicidal person. And you know that because they're not just being plagued by vague thoughts, they have a fully detailed, implementable vision of their death, and that's not good. 
+And they're suicidal when they say to you, "Do you ever think self-destructive thoughts?" And they say, "In my father's house there's a basement, there's a pistol down there, and it's in the top right-hand corner of the bureau, and I know the bullets for that gun are in the bottom left-hand drawer, and you know, I've taken that gun out of that drawer and I've toyed with it and I thought, you know, my parents are leaving next week for a weekend and they won't be back and I could go into the bathroom and put the barrel in my mouth and end it." It's like, that's a suicidal person. And that because they're not just being plagued by vague thoughts, they have a fully detailed, implementable vision of their death, and that's not good. 
 
-所以，如果在场的任何人有这种详细的自杀幻想，我会说，告诉别人，告诉别人，或者告诉不止一个人，告诉你身边最关心的那个人。如果你没有人可以告诉，那就去医院告诉他们。
+所以，如果在场的任何人有这种详细的自杀幻想，我会说，向别人倾诉，向别人倾诉，向更多的人去倾诉，向你身边最关心的那个人倾诉。如果你没有人可以倾诉，那就去医院倾诉。
 
-And so if there's anybody in the audience who has that sort of fully fleshed out fantasy, I would say tell someone, tell someone, or more than one person, tell the closest person you have to someone who cares, and if you don't have anybody to tell, then go to the hospital and tell them.
+And so if there's anybody in the audience who has that sort of fully fleshed out fantasy, I would say tell someone, tell someone, tell more than one person, tell the closest person you have to someone who cares, and if you don't have anybody to tell, then go to the hospital and tell them.
 
-因为如果你有自杀倾向，概率很高的是你确实有某种问题，你在某种程度上病了，可能是抑郁，但导致抑郁的原因有很多。有时候你可能因为生活糟糕而抑郁，这是非常复杂的，但有时候你抑郁是因为你有免疫系统问题、炎症状况，或者你患有尚未诊断的疾病，或者你有季节性情感障碍，生物钟紊乱。有很多原因会让你绝望到抑郁自杀的地步，而这些问题总有可能被解决。这很棘手，因为当你抑郁时，你肯定会认为未来是暗淡的，你知道过去是痛苦的，现在是无法忍受的，未来肯定更糟糕，而且这全都是你的错，这基本上就是抑郁的乌云。它影响一切。
+因为如果你有自杀倾向，概率很高的是你确实有某种问题，你在某种程度上病了，可能是抑郁，但导致抑郁的原因有很多。有时候你可能因为生活糟糕而抑郁，这是非常复杂的，但有时候你抑郁是因为你有免疫系统问题、炎症状况，或者你患有尚未诊断的疾病，或者你有季节性情感障碍，生物钟紊乱。有很多原因会让你绝望到抑郁自杀的地步，而这些问题总有可能被解决。这很棘手，因为当你抑郁时，你肯定会认为未来是暗淡的，过去是痛苦的，现在是无法忍受的，未来肯定更糟糕，而且这全都是你的错，这基本上就是抑郁的阴云。它影响一切。
 
-Because the probability is pretty high if you're suicidal that there's actually something wrong with you, that you're ill in some manner, and maybe you're depressed, but there's a lot of reasons to be depressed. Sometimes you might be depressed because you just have a terrible life, and that's very complicated, but sometimes you're depressed because you have an immunological condition, an inflammatory condition, or you're ill in some way that hasn't been diagnosed, or you have seasonal affective disorder and your circadian rhythms are off. There's a lot of reasons that you can get desperate enough to be suicidally depressed, and there's always the possibility that that can be fixed. And it's tricky because when you're depressed you definitely think that the future is dismal, and you know the past is dismal, and the present is unbearable, and the future is definitely worse, and it's all your fault besides, and that's basically the depressive cloud. It affects everything.
+Because the probability is pretty high if you're suicidal that there's actually something wrong with you, that you're ill in some manner, and maybe you're depressed, but there's a lot of reasons to be depressed. Sometimes you might be depressed because you just have a terrible life, and that's very complicated, but sometimes you're depressed because you have an immunological condition, an inflammatory condition, or you're ill in some way that hasn't been diagnosed, or you have seasonal affective disorder and your circadian rhythms are off. There's a lot of reasons that you can get desperate enough to be suicidally depressed, and there's always the possibility that that can be fixed. And it's tricky because when you're depressed you definitely think that the future is dismal, and the past is dismal, and the present is unbearable, and the future is definitely worse, and it's all your fault besides, and that's basically the depressive cloud. It affects everything.
 
-这是一种非常底层、深刻的脑部和心理状态，但通常是可以纠正的。因为你总是可以明天再做，所以你不妨在做出最终决定之前，尝试所有的治疗方法。这是我会告诉那些处于边缘的人们的建议。还有一点，你也必须明白，如果你周围有人爱你，他们很可能永远不会真正恢复。所以你可能会认为，如果你结束了自己，你会帮到周围的人。抑郁的人通常真的相信这一点，但我有很多来访者因为家人的自杀而受到严重创伤，他们一生都在折磨自己，想着“如果……”。
+这是一种非常底层、深刻的脑部和心理状态，但通常是可以纠正的。因为你总是可以明天再做，所以你不妨在做出最终决定之前，尝试所有的治疗方法。这是我会告诉那些处于边缘的人们的建议。还有一点，你也必须明白，如果你周围有人爱你，他们很可能永远无法真正从中恢复过来。所以你可能会认为，如果你结束了自己，你会帮到周围的人。抑郁的人通常真的相信这一点，但我有很多来访者因为家人的自杀而受到严重创伤，他们一生都在折磨自己，想着“如果……”。
 
 It's very low-level, profound, deep, brain and psychic state, but it's generally rectifiable. Since you can always do it tomorrow, you might as well run the whole gamut of treatments before you make the final decision. So that's what I would tell people who are, oh, and the other thing too, you gotta understand too about suicide is that if there are people around you that love you, it's pretty likely that they'll never really recover. So you might be thinking that if you took yourself out, you'd be doing the people around you a favor. Often people who are depressed really believe that, but I've had lots of clients who were pretty damn traumatized by a familial suicide and they just torture themselves for the rest of their life thinking, what if? 
 
-例如，我有一个来访者，她的亲人在她错过他们的电话后一小时内自杀了。你怎么能从这种情况下恢复呢？因为你会一直想，如果我当时在那里……然后你没有。你无法和那个人谈论这件事，没有真正的方法来纠正这种情况，你只能带着这种内疚生活，这是非常可怕的事情。这也是为什么大多数社会将自杀视为一种犯罪，因为你会留下灾难性的后果，这也不是一件好事。所以，如果你抑郁了，你会认为对其他人来说你消失会更好，但通常事实并非如此。几乎可以肯定地说，事实并非如此。这是你在自杀分析和预防方面需要知道的一些事情。
+例如，我有一个来访者，她的亲人在她错过他们的电话后的一小时内自杀了。你怎么能从这种情况下恢复呢？因为你会一直想，如果我当时在那里……然后你没有。你无法和那个人谈论这件事，没有真正的方法来纠正这种情况，你只能带着这种内疚生活，这是非常可怕的事情。这也是为什么大多数社会将自杀视为一种犯罪，因为你会留下灾难性的后果，这也不是一件好事。所以，如果你抑郁了，你会认为对其他人来说你消失会更好，但通常事实并非如此。几乎可以肯定地说，事实并非如此。这是你在自杀分析和预防方面需要知道的一些事情。
 
 Well, I had one client, for example, one of her relatives committed suicide an hour after she missed a phone call from them. How the hell do you recover from that? Because you just think, if I would have just been there... and then you don't. You can't talk to the person about it, there's no real way of rectifying that, you just live with that guilt and it's a pretty damn awful thing. That's why most societies regard suicide as a crime, because you leave an aftermath of catastrophic destruction in your wake, and that's also not a good thing. So, you know, if you're depressed, you're gonna think it's gonna be better for everyone else if you're just gone, but generally that's far from the truth. Almost inevitably, it's far from the truth. So those are some things you need to know on the suicide analysis and prevention front. 
 
-##### Q
+#### 养育孩子的建议
+
+**Tammy**
 
 如果你在今天的世界里养育孩子，你会有不同的做法吗？你对今天的父母有什么建议？
 
 If you were raising your children in today's world, would you do things differently? What advice do you have for parents today? 
+
+**Jordan**
 
 是的，我认为我们做得相当不错，我对我们的孩子很满意，但我认为我们没有带孩子去教堂。这是一个错误。因为，我会说，我们的家庭环境在根本上是非常宗教化的，是一个充满玩乐但也非常严肃的地方，孩子们吸收了大量的道德纪律。我们教他们如何协商，教他们为自己站起来，他们在这两方面都做得很好。
 
@@ -400,33 +414,35 @@ And so, I've also come to understand that modern people are pretty narcissistic,
 
 And so, maybe some of you are loath to join a civic organization or a political party or a church because, you know, aren't they corrupt and hypocritical? Yeah, they are. So are you. And if they're so damaged and you're so wise and wonderful, like, why don't you just go there and fix them up a bit? Because you could do that instead of just pretending that you're above all that because you're definitely not. So, we didn't handle that as well as we might have, and I suppose we're atoning for our sins to some degree by doing what we're doing now. But I don't know, what do you think? Is there anything else we screwed up? 
 
-##### Tammy
+**Tammy**
 
 哦，好吧，我25年前就不吃麸质了，但没有人注意到这一点。
 
 Oh well, I gave up gluten 25 years ago and nobody paid any attention to it. 
 
-##### Peterson
+**Peterson**
 
 是的，你认为我们本可以做到这一点。
 
 Yes, you think we could have done that.
 
-##### Tammy
+**Tammy**
 
 不过除此之外，我觉得都还好。
 
 but other than that, I think.
 
-##### Peterson
+**Peterson**
 
 好吧，听到这个我很高兴。
 
 okay, glad to hear it. 
 
-##### Tammy
+#### 关于安德鲁·泰特和全球年轻男性中正在发生的男性运动的看法
 
-关于安德鲁·泰特和全球年轻男性中正在发生的男性运动的看法
+**Tammy**
+
+关于安德鲁·泰特和全球年轻男性中正在发生的男性运动的看法。[^3]
 
 Opinions on Andrew Tate and the masculine movement happening in young men across the globe.
 
@@ -440,6 +456,8 @@ I really haven't said anything about Andrew Tate and I probably won't tonight. B
 
 It seems to me a bit on the pimpy side, let's say, and I'm not a great admirer of pimps. So, even if they're the electronic version, you know, but I don't know that much about the details of his life and apart from that rather casual diagnosis, I'm gonna leave it alone. But there is a mystery there, and the mystery is why has he captured the public imagination? And it's clear that he's become a voice, maybe, you know, maybe like a kind of a violent rapper, same sort of attraction to young men. And that attraction is the attraction of what's the alternative to a kind of cringing defeat, you know? And so maybe forthright aggression is a preferable alternative to a cringing defeat. And I have some sympathy for that viewpoint, you know? So, and I think Tate at least stands for that. Apart from that, I don't know enough about him or what he's done or what he stands for to comment, so we'll leave it at that.
 
+#### 有什么和女人说话的技巧吗
+
 ##### Tammy
 
 有什么和女人说话的技巧吗?
@@ -450,9 +468,9 @@ Any tips on how to talk to women?
 
 那很简单。你不要对女性说教，而是倾听她们。是的，这很有趣，但也相当真实。作为一个治疗师，你会学到一些东西，我认为这些在与女性沟通时非常有用，不仅仅是与女性，和男性也是，但我认为对男性来说，了解这一点特别重要。当你的妻子有问题时，一般她不希望你提供解决方案。即使你有解决方案，你可能会想，为什么你不直接要解决方案呢？如果我在和一个朋友谈话，他就会想要解决方案。
 
-That's easy. You don't talk to women, you listen to them. Yeah, and that's funny, but it's also pretty true. You know, one of the things you learn as a therapist, and I think this is very useful in relation to communicating with women, and not just women, you know, with women and men, but I think it's more true, it's particularly true in that it's very useful for men to know this. When your wife has a problem, generally she doesn't want you to provide a solution. And even if you have the solution and you might think, well, why the hell don't you just want the solution? If I was talking to one of my friends, he'd just want the solution. 
+That's easy. You don't talk to women, you listen to them. Yeah, and that's funny, but it's also pretty true. You know, one of the things you learn as a therapist, and I think this is very useful in relation to communicating with women, and not just women, with women and men, but I think it's more true, it's particularly true in that it's very useful for men to know this. When your wife has a problem, generally she doesn't want you to provide a solution. And even if you have the solution and you might think, well, why the hell don't you just want the solution? If I was talking to one of my friends, he'd just want the solution. 
 
-答案是因为她不知道问题是什么。这不是一种贬低的评论，就像如果有人来找你做治疗，诊断问题是非常困难的，因为这个人会说，我很痛苦和不开心，所以我来接受治疗。但你并不知道他们具体为什么痛苦和不开心。你不知道这是环境问题，还是身体问题，也许他们只是生病了。你不知道是他们做错了什么，还是他们的某些想法对他们没有帮助。
+答案是因为她不知道问题是什么。这不是一种贬低的评论，就像如果有人来找你做治疗，诊断问题是难以置信的困难，因为这个人会说，我很痛苦和不开心，所以我来接受治疗。但你并不知道他们具体为什么痛苦和不开心。你不知道这是环境问题，还是身体问题，也许他们只是生病了。你不知道是他们做错了什么，还是他们的某些想法对他们没有帮助。
 
 And the answer is because she doesn't know what the problem is. And so, and this is very, and that's not a denigrating comment, it's like if someone comes to see you as a therapist, the diagnosis of the problem is incredibly difficult because the person comes in and they say, you know, I'm miserable and unhappy and that's why I'm here in therapy, let's say. But then you don't know exactly why they're miserable and unhappy. You don't know if it's situational, you don't know if it's physical, maybe they're just ill. You don't know if it's something that they're doing wrong or something that they're thinking that isn't helpful to them. 
 
@@ -464,17 +482,15 @@ Or you just have no idea why they're depressed and miserable. And they might hav
 
 And what Freud noticed was that if you let people do that, they would take a kind of a wandering trip around the topics that were of emotional distress to them, some of them present and some of them past. And that that would eventually coalesce into something like a coherent and compressed narrative. And that partly what you were doing in therapy was just letting that happen. And so a lot of what you're doing when you're talking to women is just listening. And the reason you're listening is to find out what the hell the problem is. And it's actually the case that, and I think women are higher in negative emotion than men on average. 
 
-
-
-这有多种原因。女性体型较小，上半身力量不如男性，因此不如男性在身体对抗中有优势。因此，女性在负面情绪，如焦虑方面稍微高一些，表明平均而言，世界对女性来说更危险，我认为这在身体和性方面都是如此。但负面情绪的增加从青春期开始，因为男孩和女孩在负面情绪上没有差别，但青少年有，而这种差别一旦形成就会是永久的。
+这有多种原因。女性体型较小，上半身力量不如男性，因此不如男性在身体对抗中有优势。因此，女性在负面情绪，如焦虑方面稍微高一些，平均而言，世界对女性来说更危险，我认为这在身体和性方面都是如此。但负面情绪的增加从青春期开始，因为男孩和女孩在负面情绪上没有差别，但青少年有，而这种差别一旦形成就会是永久的。
 
 And I think there's a variety of reasons for that. And they're smaller, and so and they're not as powerful in their upper body, and so they're not as armed to engage in physical combat. And so the fact that there's somewhat more higher negative emotion, anxiety for example, signals the fact that on average the world is a more dangerous place for women, which I think is true both physically and sexually. But they're also higher in negative emotion, it kicks in at puberty, that's when women become sexually vulnerable, because boys and girls don't differ in negative emotion, but adolescents do, and that's permanent, once that is instantiated. 
 
-此外，女性是孩子的调解者，负面情绪较高的部分原因是她们对威胁更敏感，她们需要这样，因为孩子更脆弱。女性对威胁更敏感，因为她们需要照顾孩子。如果你觉得这没有道理，那是因为你没有认真思考。这也意味着女性在发现男性可能还没注意到的威胁方面很在行。
+此外，女性是孩子的调解者，负面情绪较高的部分原因是她们对威胁更敏感，她们需要这样，因为孩子更脆弱。女性对威胁更敏感，因为她们需要照顾孩子。如果你觉得这没有道理，那是因为你没有认真思考。这也意味着女性在发现男性可能还没注意到的威胁方面很在行。这种敏感的缺点是，她们可能会发现并不存在的威胁。
 
 But also, you know, women are the mediators for children, and part of the reason they have higher levels of negative emotion is because they're more threat-sensitive, and they need to be because children are more vulnerable. And so women are more threat-sensitive because they have to take care of children. Now, if that doesn't make sense to you, you're just not thinking. And so, what that also implies is that women are pretty good at detecting threats that men may yet not notice. Now, the downside of that is they might detect threats that aren't there.
 
-这种敏感的缺点是，她们可能会发现并不存在的威胁。因为如果你是一个更敏感的仪器，就会有更多的误报。警报会在没有危险时响起。但优点是，如果女性特别擅长发现威胁，她们会在你注意到之前告诉你什么不对劲。这也是非常有用的。
+这就是缺点，对吧?因为如果你是一个更敏感的仪器，就会有更多的假阳性。警报会在没有危险时响起。但优点是，如果女性特别擅长发现威胁，她们会在你注意到之前告诉你什么不对劲。这也是非常有用的。
 
 Well, that is the downside, right? Because if you're a more sensitive instrument, there's going to be more false positives. The alarm is going to go off when there's no danger. But the upside is that women are pretty good at detecting, if they're particularly good at detecting threats, they're going to be able to tell you what's not right before you would notice. And that can be real useful too.
 
@@ -482,11 +498,11 @@ Well, that is the downside, right? Because if you're a more sensitive instrument
 
 But that doesn't mean they know what it is. They're going to be upset about something and maybe they have 50 ideas about what that might be but they don't know. What you're supposed to do is just sit there and shut up and listen, maybe ask some questions to see if you can figure out what the problem is. One of the things you'll find when dealing with people, you find this in therapy all the time, is if you let people lay out the problem, and that can take a long time. It can really take a long time, sometimes hundreds of hours. But you're going to be with your wife for hundreds of hours, you know? And if you don't listen to her voluntarily, you're going to listen to her involuntarily.
 
-如果你让她在这个过程中自由漫步，她会自己消除90%的担忧，因为她会把问题说出来，然后想到，“哦，这可能不值得担心。”但在她说出来之前，她并不知道这一点。所以这对男性来说是一个好东西；你可以闭嘴听着，问一些真正的问题。你不想把这当成游戏。想要那个有问题的人。
+如果你让她在这个过程中自由漫步，她会自己消除90%的担忧，因为她会把问题说出来，然后想到，“哦，这可能不值得担心。”但在她说出来之前，她并不知道这一点。所以这对男性来说是一个好东西；你可以闭嘴听着，问一些真正的问题。你不想把这当成游戏。
 
 If you let her wander through the territory, she'll get rid of 90% of the concerns by herself because she'll lay them out and she'll think, "Oh, that's probably not worth worrying about," but she doesn't know that before she lays it out. So it's a good thing for men to know; you can just shut up and listen and ask a few questions, you know, that are real questions. You don't want to play this like it's a game. 
 
-每个人都应该知道的一种有效沟通策略，因为这非常有用：如果你听别人陈述一系列问题，除了提问之外，你可以做的一件事是说，“这是我目前所理解的你的意思。”你不会逐字逐句重复他们说的话，而是会将其压缩和总结，这有助于他们抓住问题的要点。如果你问对方，“这是我理解的你的意思。是这样吗？”
+这是每个人都应该知道的一种有效沟通策略，因为这非常有用：如果你听别人陈述一系列问题，除了提问之外，你可以做的一件事是说，“这是我目前所理解的你的意思……”你不会逐字逐句重复他们说的话，而是会将其压缩和总结，这有助于他们抓住问题的要点。如果你问对方，“这是我理解的你的意思。是这样吗？”
 
 And one effective communication strategy that everyone should know, because this is extremely useful, is if you listen to someone laying out a set of problems, one thing you can do, apart from asking a question, is to say, "Here's what I think you've said so far," you know? And you're not going to repeat verbatim what they said; you're going to condense and compress it, and that helps them get at the gist of the problem. And if you ask the person, "Here's what I think you said. Is this what you meant?" 
 
@@ -498,7 +514,7 @@ And if they say yes, well, hooray, home run for you, and they're happy because y
 
 And also, see, there's an arrogance also in that, an arrogance and a carelessness in that male proclivity to jump in and solve the problem because you can easily, too easily, present yourself as the guy with the answers, you know? And she doesn't really want the guy with the answers right then and there; she wants the guy with the questions. 
 
-但这也会减轻你的负担，确实应该减轻，因为这并不完全由你来立即解决问题，尤其是因为这可能是她的问题，也许她需要自己解决，对吧？因为你实际上不想解决别人的问题；你要把问题留给他们，因为那是他们的生活。你不应该为任何人做他们自己可以做的事情。这就像照顾老人的第一条规则：不要为他们做他们还能做的事情，因为那样只会剥夺他们的自主权、责任感和尊严。同样，对孩子也是如此；即使你可能会有诱惑，也不要为他们做他们自己能做的事情。你也不应该为你的妻子或丈夫这样做。别插手他们的生活。你知道什么呢？说真的，你可以倾听，可以帮助对方澄清他们想要前进的道路，但贸然跳进去解决问题，说“我有答案给你”其实是非常傲慢的。
+但这也会减轻你的负担，确实应该减轻，因为这并不完全由你来立即解决问题，尤其是因为这可能是她的问题，也许她需要自己解决，对吧？因为你实际上不想解决别人的问题；你要把问题留给他们，因为那是他们的生活。你不应该为任何人做他们自己可以做的事情。这就像照顾老人的第一条规则：不要为他们做他们还能做的事情，因为那样只会剥夺他们的自主权、责任感和尊严。同样，对孩子也是如此；即使你可能会到诱惑，也不要为他们做他们自己能做的事情。你也不应该为你的妻子或丈夫这样做。别插手他们的生活。你知道什么呢？说真的，你可以倾听，可以帮助对方澄清他们想要前进的道路，但贸然跳进去解决问题，说“我有答案给你”其实是非常傲慢的。
 
 But it also takes a certain load off you, it should, because it's not exactly up to you to instantaneously solve the problem, especially because it might be her problem, and maybe she needs to solve it, right? Because you actually don't want to solve a problem that's someone else's problem; you want to leave it with them because that's their life. You don't want to do anything for anybody that they can do themselves. It's like the first rule for caring for old people: don't do anything for them that they can still do because you just take away their autonomy and responsibility and dignity. And it's the same with kids; you don't do things for your kids that they can do, even though you might be tempted to. And you don't do that for your wife or your husband as well. Stay the hell out of their lives. What the hell do you know? You know, seriously, man, you can listen and you can help the person learn to clarify the path they want to take forward, but it can be real arrogant to just jump in and solve the problem, saying, "I've got the answer for you."
 
@@ -506,11 +522,11 @@ But it also takes a certain load off you, it should, because it's not exactly up
 
 You know, maybe you do, but one of the things you also learn as a therapist is that even if you do have the answer and you give it to the person, well, first of all, you've robbed them of the opportunity to come up with the answer for themselves. And second, they're not gonna listen to you anyways because they haven't done the work necessary to have generated that answer, and so they don't have any of the details that make it possible to implement it. It's just not helpful. The psychoanalysts figured this out like a century ago; they said if you give people advice, you just get resistance. So, you know, because you might think you go to a therapist for advice, it's like, no, you don't. You go to a therapist so that you can have someone to listen to you think through your problems.
 
-或许你可以提出一些有见地的问题，帮助对方澄清问题，但从根本上说，一个好的治疗师是帮助你找到自己的道路。同样，如果你理解这一点，比如对于你的妻子，这会变得更有趣。我们当然关心，但这会变得更加有趣，因为首先，你可以稍微摆脱过度的责任感。然后你可以想，好吧，我可以看看这个人如何校准自己的命运。你爱上了这个人，你可能会想看看他们能成为什么样子。如果你倾听他们的展开，那么你可以促进这一过程。你不知道会发生什么，这非常有趣。
+或许对方可以提出一些有见地的问题，帮助你澄清问题，但从根本上说，一个好的治疗师是帮助你找到自己的道路。同样，如果你理解这一点，比如对于你的妻子，这会变得更有趣。我们当然关心，但这会变得更加有趣，因为首先，你可以稍微摆脱过度的责任感。然后你可以想，好吧，我可以看看这个人如何校准自己的命运。你爱上了这个人，你可能会想看看他们能成为什么样子。如果你倾听他们的心声，那么你可以促进这一过程。你不知道会发生什么，这非常有趣。
 
 And maybe the person can ask intelligent questions and help you clarify, but fundamentally, a good therapist is there to help you find your path. And that's actually the other thing that's, you'll find too, is if you understand that, let's say about your wife, it gets way more interesting. We care, definitely, you know? And it gets way more interesting, hey, because first of all, you can detach yourself a bit from the excess responsibility. But then you can think, well, look, I get to watch this person sort of calibrate their own destiny here, you know? And who knows, you fell in love with the person; you might want to see what they could become. And if you listen to them unfold, then you can facilitate that. You don't know what's going to happen; it's extremely interesting. 
 
-所以，我还会说，如果你觉得你的伴侣告诉你的事情很无聊，那是因为你没有认真听。这是任何社交交流的一个基本法则。如果你觉得你周围都是无聊的人，那很可能是你自己无聊。认为别人无聊的概率几乎是百分之百因为你不能倾听。然后你会把人们简化成你对他们的刻板印象，难怪你会觉得无聊。如果你倾听人们，不管他们是谁，他们会变得非常有趣，你几乎无法忍受不听他们说话。
+所以，我还会说，如果你觉得你的伴侣告诉你的事情很无聊，那是因为你没有认真听。这是任何社交交流的一个基本法则。如果你觉得你周围都是无聊的人，那很可能是你自己无聊。认为别人无聊几乎百分之百是因为你不能倾听。然后你会把人们简化成你对他们的刻板印象，难怪你会觉得无聊。如果你倾听人们，不管他们是谁，他们会变得非常有趣，你几乎无法忍受不听他们说话。
 
 And so I would also say, if you're bored by what your partner is telling you, you are not listening hard enough. And that's a good rule of thumb for any social discourse at all. If you're talking, you might think I'm surrounded by boring people. It's like, no, no, you're the boring person for sure if that's the way you feel about people. The probability that that's because you can't listen is virtually a hundred percent. And then you're reducing people to your stereotype of them, and no wonder you're bored by that. If you listen to people, I don't care who they are, if you listen to people, they get so interesting, you can hardly stand being around them.
 
@@ -526,7 +542,7 @@ And so if that's another thing you can learn in relationship to communication wi
 
 Another rule of thumb that's good to know in terms of communication is that if you listen to people, you get to see them unfold their destiny. And that makes them very interesting; you're surrounded by people who are interesting as a consequence of that. You can also see how you can meld your lives together in this sort of mutual search for adventure, which is very good. And you have to stay in your own ballpark to do that.
 
-我在治疗中很喜欢这样做，因为这种抽离也让倾听变得不那么费力。你没有承担过多的责任，所以你不必觉得这是一个非常难以解决的问题，尤其是如果你是一个负责人的人。因为你可能会觉得自己需要立即承担起对方问题的责任。但如果你能抽离自己去倾听，那么压力会小得多。而且这样对方就有机会展开他们的命运，这会使你的关系保持有趣。这会帮助你保持关系，因为事情是这样的：
+我在治疗中很喜欢这样做，因为这种抽离也让倾听变得不那么费力。你没有承担过多的责任，所以你不必觉得这是一个非常难以解决的问题，尤其是如果你是一个负责任的人。因为你可能会觉得自己需要立即承担起对方问题的责任。但如果你能抽离自己去倾听，那么压力会小得多。而且这样对方就有机会展开他们的命运，这会使你的关系保持有趣。这会帮助你保持关系，因为事情是这样的：
 
 I really like doing that in therapy because the detachment also made it much less effortful to listen. You're not taking on that excess responsibility, so you don't have to feel this is a very hard thing to get right, especially if you're a responsible person. Because you might want to think that you need to take on the responsibility of the person's problems right away. But if you can detach yourself and listen, then it's much less stressful. And then the person gets a chance to let their destiny unfold, and then that will keep your relationship interesting. That'll help you stay, you know, because here's what it was:
 
@@ -534,9 +550,9 @@ I really like doing that in therapy because the detachment also made it much les
 
 When you fall in love with someone, you fall in love with them in part because you get a glimpse of what they could be if they were all they could be, and vice versa. It's like a gift from God. You get to see what that person would be if they let their light shine. You get a glimpse into that, you know? And then it's just a glimpse, and then you have to work, both of you, to make that a reality. But it can be a reality, and love points the way to that. And you can think about that as a skeptic even. If love is a profound biological instinct, why wouldn't it be oriented towards maximizing the productive utility of your partner? I mean, how could it be oriented otherwise, right? So, love would be part of that bond that you have with someone that calls the best out of them. And of course, that's going to prepare the ground most optimally for having children that thrive.
 
-如果你知道爱呼唤你的是对那个人潜力的愿景，反之亦然，那么你可以稍微抽离自己，让这一切展开。这会变得非常有趣，因为当你看到这种情况发生时，你会看到你爱上的那个人的出现，这会让你再次爱上他们。为什么这不是最好的事情呢？我喜欢做治疗的原因之一是这个过程总在展开。来看我的人，他们试图向上努力，而我试图促进这一过程。即使他们处于困境中，这通常是情况，至少方向是好的。看着人们展开真是令人惊叹。
+如果你知道爱呼唤你的是对那个人潜力的愿景，反之亦然，那么你可以稍微抽离自己，让这一切展开。这会变得非常有趣，因为当你看到这种情况发生时，你会看到你爱上的那个人的出现，这会让你再次爱上他们。为什么这不是最好的事情呢？我喜欢做治疗的原因之一是这个过程总在展开。来看我的人，他们试图向上努力，而我试图促进这一过程。即使他们处于困境中，这是通常情况，至少方向是好的。看着人们展开真是令人惊叹。
 
-The ground most optimally for having children that thrive. So if you know that what calls you to love is a vision of that person's potential and vice versa, then you can detach yourself a little bit and let that unfold. Then that becomes ridiculously interesting because as you see that happening, what you'll see is the emergence of the person that you fell in love with, and that makes you fall in love with them again. So why wouldn't that be the best thing that can possibly happen? One of the things I loved about doing therapy was that this process was always unfolding. The people who were coming to see me, they were trying to aim up, and I was trying to facilitate that. Even if they were in a dire state, which was often the case, at least the trajectory was good. It was amazing to watch people unfold.
+So if you know that what calls you to love is a vision of that person's potential and vice versa, then you can detach yourself a little bit and let that unfold. Then that becomes ridiculously interesting because as you see that happening, what you'll see is the emergence of the person that you fell in love with, and that makes you fall in love with them again. So why wouldn't that be the best thing that can possibly happen? One of the things I loved about doing therapy was that this process was always unfolding. The people who were coming to see me, they were trying to aim up, and I was trying to facilitate that. Even if they were in a dire state, which was often the case, at least the trajectory was good. It was amazing to watch people unfold.
 
 我有一个来访者，当她第一次来找我时，她非常害怕，社交焦虑很严重。她一生中没有人真正关注过她，如果有人关注，那也是为了惩罚她，真的很残忍。我想和她一起喝咖啡作为一种练习，因为她无法在餐厅里与任何人交谈。我想，我们在办公室里谈话，不如去餐厅喝杯咖啡。她说绝对不行。她花了三年时间才敢这么做。但我和她一起工作了大约七年，到她结束时，她在观众面前做单口喜剧，朗诵自己的诗歌。看着一个人从那里走到这里真的是很有趣的过程。
 
@@ -547,3 +563,6 @@ I had one client who was so afraid when she first came to see me, so socially an
 And with her, the whole session, she just talked. And for the first four or five years, I probably got to say a few things to her for five minutes at the end of the session. She had that much to say because no one ever listened to her. Hundreds of hours of conversation that never happened. And then, you know, by six or seven years into the process, she would unload for 15 minutes, and then we would have a discussion. But it took six years, I think, before we got to the point where there was anything like a dialogue because she had like 10,000 hours of unheard conversation to have just to get her brain reasonably straightened out. And so if you married someone like that, 10,000 hours of listening to do, but maybe it'll be good for you. All right, thank you very much. Good to talk to you all. Thank you, Tammy. Appreciate your time and attention, everybody. Good to see you all. All right. Thank you. Thank you.
 
 [^1]: "Kumbaya" 是一首传统的灵歌，通常被认为起源于美国南部的黑人社群。歌曲的名字"Kumbaya"来源于"Gullah"语中的短语“Come by Here”的变音，意为“请到这里来，主”。
+[^2]: “Red in tooth and claw” 是出自英国诗人阿尔弗雷德·丁尼生（Alfred Tennyson）的长诗《悼念》（In Memoriam A.H.H.）中的一句。这句话描述了自然界中残酷和暴力的生存竞争，强调了动物在捕食和自卫过程中的血腥和野蛮。这个典故常用来描绘自然界的无情斗争和生物为了生存而采取的极端手段，反映了达尔文进化论中“适者生存”的概念。
+
+[^3]: 安德鲁·泰特（Andrew Tate）是一位有争议的网络红人，以其极端的厌女观点和“男性至上”的言论著称。他在全球年轻男性中引发了一场男性运动，吸引了大量追随者。泰特利用社交媒体平台传播他的思想，倡导传统的男性气质，并批判现代女性主义。他的影响力在全球范围内迅速扩展，但同时也引发了广泛的批评和法律问题，包括涉嫌人口贩卖和组织犯罪 ([The Independent](https://www.independent.co.uk/arts-entertainment/tv/news/andrew-tate-bbc-documentary-influence-b2390148.html))。

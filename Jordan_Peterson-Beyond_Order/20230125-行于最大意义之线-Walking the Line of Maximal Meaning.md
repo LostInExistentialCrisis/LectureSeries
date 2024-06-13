@@ -1,6 +1,4 @@
-230125-行于最大意义之线-Walking the Line of Maximal Meaning
-
-行于最大意义之线
+## 行于最大意义之线
 
 Walking the Line of Maximal Meaning
 
